@@ -1,6 +1,7 @@
-> Old version for support WordPress < 4.9
-> It will not be updated and nor will support be given.
-> It is maintained for use in older versions of the WordPress
+# Notes for v2 branch
+* Old version for support WordPress < 4.9
+* It will not be updated and nor will support be given.
+* It is maintained for use in older versions of the WordPress
 
 # wp-color-picker-alpha
 * Overwrite [Automattic Iris][1] for enabled Alpha Channel in wpColorPicker
@@ -44,10 +45,10 @@ Add class `.color-picker` and `data-alpha="true"` in input.
 Licensed under the GPLv2 license.
 
 ## Support
-If you would like to contribute please fork the project and [report bugs][2] or submit [pull requests][3].
+there is none
 
 ## Tested
-If only tested in Firefox and WordPress last versions
+If only tested in Firefox and WordPress 4.9 and old versions
 
 ## Testing
 For only testing download or clone [wp-color-picker-alpha-plugin](https://github.com/kallookoo/wp-color-picker-alpha-plugin) inside WordPress plugins folder and activate.
