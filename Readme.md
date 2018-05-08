@@ -1,3 +1,7 @@
+> Old version for support WordPress < 4.9
+> It will not be updated and nor will support be given.
+> It is maintained for use in older versions of the WordPress
+
 # wp-color-picker-alpha
 * Overwrite [Automattic Iris][1] for enabled Alpha Channel in wpColorPicker
 * Overwrite [WordPress Color Picker][4] for better implementation of overwriting the Iris
