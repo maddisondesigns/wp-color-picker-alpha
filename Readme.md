@@ -54,10 +54,10 @@ For only testing download or clone [wp-color-picker-alpha-plugin](https://github
  * Fix issue [#35](https://github.com/kallookoo/wp-color-picker-alpha/issues/35)
 
 ###### v2.1.4
- * Fix issue [#31](../../issues/31), Thanks for @webaware
+ * Fix issue [#31](https://github.com/kallookoo/wp-color-picker-alpha/issues/31), Thanks for @webaware
 
 ###### v2.1.3
- * Fix issue [#13](../../pull/13), Thanks for @jtsternberg, see [#15](../../pull/15)
+ * Fix issue [#13](https://github.com/kallookoo/wp-color-picker-alpha/pull/13), Thanks for @jtsternberg, see [#15](https://github.com/kallookoo/wp-color-picker-alpha/pull/15)
  
 ###### v2.1.2
  * Declare some global variables when is deprecated or not
@@ -67,7 +67,7 @@ For only testing download or clone [wp-color-picker-alpha-plugin](https://github
  * Change method to check WordPress version
 
 ###### v2.1
- * Resolve issues with wp-color-picker.css, see [#12](../../pull/12)
+ * Resolve issues with wp-color-picker.css, see [#12](https://github.com/kallookoo/wp-color-picker-alpha/pull/12)
   > The variable wpColorPickerL10n is used to check if it is earlier than version 4.9 and adjusts the content,
   > only tested in 4.8.3 and 4.9-RC2-42156.
 
@@ -75,16 +75,16 @@ For only testing download or clone [wp-color-picker-alpha-plugin](https://github
  * Add support for WordPress 4.9, also works in lower versions, only tested in version 4.8
 
 ###### v1.2.2
- * Pull, see [#7](../../pull/7)
+ * Pull, see [#7](https://github.com/kallookoo/wp-color-picker-alpha/pull/7)
 
 ###### v1.2.1
- * Pull, see [#4](../../pull/4)
+ * Pull, see [#4](.https://github.com/kallookoo/wp-color-picker-alpha/pull/4)
 
 ###### v1.2
- * Add functionality to change the width of the element, see [#2](../../issues/2)
+ * Add functionality to change the width of the element, see [#2](https://github.com/kallookoo/wp-color-picker-alpha/issues/2)
 
 ###### v1.1
- * Fixed issue [#1](../../issues/1)
+ * Fixed issue [#1](https://github.com/kallookoo/wp-color-picker-alpha/issues/1)
  * Show Iris error always, but if not is empty input
  * Fixed option reset, not reset in first time
  * Fixed width input with data alpha is true and plugin initialize
